@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.FactoryPattern.FactoryMethod;
+package patterns.FactoryPattern.FactoryMethod;
 
 import org.junit.Test;
 

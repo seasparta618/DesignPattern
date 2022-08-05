@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.FactoryPattern.AbstractFactory.bean;
+package patterns.FactoryPattern.AbstractFactory.bean;
 
 public class ItalianPudding extends Dessert {
     public ItalianPudding() {

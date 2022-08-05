@@ -1,8 +1,8 @@
-package patterns.PropertyPattern.FactoryPattern.AbstractFactory;
+package patterns.FactoryPattern.AbstractFactory;
 
 import org.junit.Test;
-import patterns.PropertyPattern.FactoryPattern.AbstractFactory.factory.IDessertFactory;
-import patterns.PropertyPattern.FactoryPattern.AbstractFactory.factory.ItalianDessertFactory;
+import patterns.FactoryPattern.AbstractFactory.factory.IDessertFactory;
+import patterns.FactoryPattern.AbstractFactory.factory.ItalianDessertFactory;
 
 public class AbstractFactoryTest {
 

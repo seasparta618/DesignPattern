@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.FactoryPattern.FactoryMethod;
+package patterns.FactoryPattern.FactoryMethod;
 
 public class LatteCoffeeFactory implements CoffeeFactory {
     @Override

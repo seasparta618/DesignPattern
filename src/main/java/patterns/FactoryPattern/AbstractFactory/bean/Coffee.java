@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.FactoryPattern.AbstractFactory.bean;
+package patterns.FactoryPattern.AbstractFactory.bean;
 
 public abstract class Coffee {
     private String coffeeName;
