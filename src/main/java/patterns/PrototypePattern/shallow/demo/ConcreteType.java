@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.shallow.demo;
+package patterns.PrototypePattern.shallow.demo;
 
 public class ConcreteType implements Cloneable {
     public ConcreteType() {

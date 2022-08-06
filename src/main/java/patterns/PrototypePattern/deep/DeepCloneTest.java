@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.deep;
+package patterns.PrototypePattern.deep;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.shallow.demo2;
+package patterns.PrototypePattern.shallow.demo2;
 
 import org.junit.Test;
 

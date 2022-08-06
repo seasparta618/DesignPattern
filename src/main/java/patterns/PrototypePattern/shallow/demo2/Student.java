@@ -1,4 +1,4 @@
-package patterns.PropertyPattern.shallow.demo2;
+package patterns.PrototypePattern.shallow.demo2;
 
 public class Student {
     private String name;
