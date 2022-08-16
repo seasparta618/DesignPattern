@@ -1,4 +1,4 @@
-package patterns.AdaptorPattern.ObjectAdaptor.demo.square;
+package patterns.AdaptorPattern.demo.square;
 
 public class SquarePeg {
     private double width;

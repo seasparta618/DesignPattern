@@ -1,10 +1,10 @@
-package patterns.AdaptorPattern.ObjectAdaptor.demo;
+package patterns.AdaptorPattern.demo;
 
 import org.junit.Test;
-import patterns.AdaptorPattern.ObjectAdaptor.demo.adaptors.SquareToRoundAdaptor;
-import patterns.AdaptorPattern.ObjectAdaptor.demo.round.RoundHole;
-import patterns.AdaptorPattern.ObjectAdaptor.demo.round.RoundPeg;
-import patterns.AdaptorPattern.ObjectAdaptor.demo.square.SquarePeg;
+import patterns.AdaptorPattern.demo.adaptors.SquareToRoundAdaptor;
+import patterns.AdaptorPattern.demo.round.RoundHole;
+import patterns.AdaptorPattern.demo.round.RoundPeg;
+import patterns.AdaptorPattern.demo.square.SquarePeg;
 
 public class Client {
 

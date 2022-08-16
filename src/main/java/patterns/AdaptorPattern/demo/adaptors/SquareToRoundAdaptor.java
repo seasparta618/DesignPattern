@@ -1,7 +1,7 @@
-package patterns.AdaptorPattern.ObjectAdaptor.demo.adaptors;
+package patterns.AdaptorPattern.demo.adaptors;
 
-import patterns.AdaptorPattern.ObjectAdaptor.demo.round.RoundPeg;
-import patterns.AdaptorPattern.ObjectAdaptor.demo.square.SquarePeg;
+import patterns.AdaptorPattern.demo.round.RoundPeg;
+import patterns.AdaptorPattern.demo.square.SquarePeg;
 
 public class SquareToRoundAdaptor extends RoundPeg {
     private SquarePeg peg;

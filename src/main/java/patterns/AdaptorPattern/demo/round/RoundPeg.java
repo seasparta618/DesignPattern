@@ -1,4 +1,4 @@
-package patterns.AdaptorPattern.ObjectAdaptor.demo.round;
+package patterns.AdaptorPattern.demo.round;
 
 public class RoundPeg {
     private double radius;
