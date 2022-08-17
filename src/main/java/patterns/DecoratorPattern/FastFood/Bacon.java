@@ -1,11 +1,9 @@
-package patterns.DecoratorPattern.demo1;
+package patterns.DecoratorPattern.FastFood;
 
-import java.util.function.Predicate;
+public class Bacon extends Garnish {
 
-public class Egg extends Garnish {
-
-    public Egg(FastFood fastFood) {
-        super(fastFood, 1, "Egg");
+    public Bacon(FastFood fastFood) {
+        super(fastFood, 2.5, "Bacon");
     }
 
     @Override

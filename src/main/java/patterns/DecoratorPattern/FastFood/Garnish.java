@@ -1,4 +1,4 @@
-package patterns.DecoratorPattern.demo1;
+package patterns.DecoratorPattern.FastFood;
 
 public abstract class Garnish extends FastFood {
 

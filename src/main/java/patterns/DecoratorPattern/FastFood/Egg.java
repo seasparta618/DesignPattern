@@ -1,9 +1,9 @@
-package patterns.DecoratorPattern.demo1;
+package patterns.DecoratorPattern.FastFood;
 
-public class Bacon extends Garnish {
+public class Egg extends Garnish {
 
-    public Bacon(FastFood fastFood) {
-        super(fastFood, 2.5, "Bacon");
+    public Egg(FastFood fastFood) {
+        super(fastFood, 1, "Egg");
     }
 
     @Override
